@@ -5,7 +5,7 @@ scripts:
   ps: scripts/powershell/update-agent-context.ps1 -AgentType __AGENT__
 ---
 
-注意：**請使用中文撰寫**
+注意：**這個文檔請使用中文撰寫。但是這行不要出現在文檔中**
 
 # Implementation Plan: [FEATURE]
 
