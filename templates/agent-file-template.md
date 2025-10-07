@@ -1,3 +1,5 @@
+注意：**請使用中文撰寫**
+
 # [PROJECT NAME] Development Guidelines
 
 Auto-generated from all feature plans. Last updated: [DATE]
