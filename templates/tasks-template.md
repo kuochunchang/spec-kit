@@ -1,3 +1,5 @@
+注意：**請使用中文撰寫**
+
 # Tasks: [FEATURE NAME]
 
 **Input**: Design documents from `/specs/[###-feature-name]/`
